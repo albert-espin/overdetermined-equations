@@ -7,7 +7,7 @@ The programs of this repository can solve overdetermined linear equations system
 
 | | | |
 |-|-|-|
-| **Programming language**  | Python 2 |
+| **Programming language**  | C |
 | **Language**   | English (variables and functions), Catalan (comments) |
 | **Author** | Albert Espín |
 | **Date**  | Q4 2015  |
