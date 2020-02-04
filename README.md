@@ -1,4 +1,4 @@
-# Numerical Algorithms for sovling Overdetermined Equation Systems
+# Numerical Algorithms for solving Overdetermined Equation Systems
 
 The programs of this repository can solve overdetermined linear equations systems, namely some particular cases and techniques are explorer:
 - Triangular equation systems ("triangular_systems.c").
