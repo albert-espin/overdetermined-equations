@@ -5,8 +5,8 @@ The programs of this repository can solve overdetermined linear equations system
 - LDLt decomposition method ("LDLt_decomposition.c").
 - Normal equation systems ("normal_equations.c").
 
-| | | |
-|-|-|-|
+| | |
+|-|-|
 | **Programming language**  | C |
 | **Language**   | English (variables and functions), Catalan (comments) |
 | **Author** | Albert Espín |
